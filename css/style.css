@@ -11,3 +11,7 @@
   font: size 400px;
  }
 
+.stress {
+  font-weight:bold;
+  font-style: italic;
+}
